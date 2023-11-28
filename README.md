@@ -1,6 +1,4 @@
-Great! Here's an updated README description for your Tic Tac Toe game:
 
----
 
 # Tic Tac Toe Game (Java)
 
